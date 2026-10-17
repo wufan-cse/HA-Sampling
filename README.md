@@ -1,1 +1,2 @@
-# HA-Sampler
+This is the official implementation for the paper, Risk Decomposition for Hallucination-Aware Video Sampling.
+Codes are coming soon...
